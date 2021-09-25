@@ -1,0 +1,9 @@
+﻿ Age ,Spectacle ,Astigmatism ,Tear ,Lenses (ground truth) 
+Young ,Hypermetrope ,Yes ,Normal ,Yes 
+Young ,Hypermetrope ,No ,Normal ,Yes 
+Young ,Myope ,No ,Reduced ,No 
+Presbyopic ,Hypermetrope ,No ,Reduced ,No 
+Presbyopic ,Myope ,No ,Normal ,No 
+Presbyopic ,Myope ,Yes ,Reduced ,No 
+Prepresbyopic ,Myope ,Yes ,Normal ,Yes 
+Prepresbyopic ,Myope ,No ,Reduced ,No 
